@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and numerical simulation of PDEs
 - 🌱 I’m currently learning Differential Topology and Chaos Theory
 - 💞️ I’m looking to collaborate on forecasting for trading and financial services
-- 📫 How to reach me Linkedin: Johny Vallejo-Sánchez
+- 📫 How to reach me: http://linkedin.com/in/johnyvallejo/
 
 <!---
 Hausdorff94/Hausdorff94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
